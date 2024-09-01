@@ -87,18 +87,19 @@ body {
     line-height: 24px;
     letter-spacing: -4%;
     text-align: center;
-}
 
-.first-section button {
-    padding: 16px, 32px, 16px, 32px;
-    weight: 169px;
-    height: 56px;
+    padding: 16px, 32px;
+    width: 169px; 
+    height: 56px; 
     top: 428px;
     left: 636px;
     border-radius: 4px;
+    border: none;  
     gap: 10px;
 }
+
 
 .first-section button:hover {
     background-color: #404BBF;
 }
+
