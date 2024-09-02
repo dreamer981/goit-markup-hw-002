@@ -103,3 +103,71 @@ body {
     background-color: #404BBF;
 }
 
+.second-section li {
+    list-style-type: none;
+}
+
+.second-section h3 {
+    width: 264px;
+    height: 24px;
+    font-weight: 500;
+    font-size: 20px; 
+    line-height: 24px;
+    letter-spacing: -2%;
+}
+
+.second-section p {
+    width: 264px;
+    height: 72px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -2%;
+}
+
+.third-section {
+    background-color: #F4F4FD;
+}
+
+.third-section h2 {
+    width: 162px;
+    height: 40 px;
+    top: 1136px;
+    left: 639px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: -2%;
+    text-align: center;
+    
+}
+
+.third-section li {
+    list-style-type: none;
+    width: 264px;
+    height: 380px;
+    padding: 0px, 0px, 32px, 0px;    ;
+    border-radius: 0px, 0px, 4px, 4px;
+    background-color: #FFFFFF;
+}
+
+
+.third-section h3 {
+    width: 134px;
+    height: 24px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: -2%;
+    text-align: center;
+}
+
+.third-section p {
+    width: 128px;
+    height: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -2%;
+    text-align: center;
+}
