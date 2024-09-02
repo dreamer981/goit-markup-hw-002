@@ -8,7 +8,7 @@ body {
   font-weight: 700;
   font-style: normal;
   font-size: 18px;
-  line-height: 21px;
+  line-height: 1.3;
   letter-spacing: -3%;
   color: #4d5ae5;
   text-decoration: none;
@@ -19,7 +19,7 @@ body {
   font-weight: 700;
   font-style: normal;
   font-size: 18px;
-  line-height: 21px;
+  line-height: 1.3;
   letter-spacing: -3%;
   color: #2e2f42;
   text-decoration: none;
@@ -30,7 +30,7 @@ body {
   color: #2e2f42;
   font-weight: 500;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: -2%;
 }
 
@@ -47,7 +47,7 @@ body {
   color: #434455;
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: -2%;
   font-style: normal;
 }
@@ -84,7 +84,7 @@ body {
   color: #ffffff;
   font-weight: 500;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: -4%;
   text-align: center;
 
@@ -111,9 +111,9 @@ body {
   height: 24px;
   font-weight: 500;
   font-size: 20px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: -2%;
-  color: #2e2f42;
+  color: #2E2F42;
 }
 
 .second-section p {
@@ -121,7 +121,7 @@ body {
   height: 72px;
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: -2%;
   color: #434455;
 }
@@ -129,18 +129,12 @@ body {
 .third-section {
   background-color: #f4f4fd;
   width: 1440px;
-  height: 732px;
-  top: 1016px;
 }
 
 .third-section h2 {
-  width: 162px;
-  height: 40 px;
-  top: 1136px;
-  left: 639px;
   font-weight: 700;
   font-size: 36px;
-  line-height: 40px;
+  line-height: 2.5;
   letter-spacing: -2%;
   text-align: center;
   color: #2e2f42;
@@ -161,7 +155,7 @@ body {
 .third-section h3 {
   font-weight: 500;
   font-size: 20px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: -2%;
   text-align: center;
   color: #2e2f42;
@@ -170,7 +164,7 @@ body {
 .third-section p {
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: -2%;
   text-align: center;
   color: #434455;
@@ -178,6 +172,7 @@ body {
 
 .fourth-section {
   background-color: white;
+  width: 1440px;
 }
 
 .fourth-section li {
@@ -195,13 +190,9 @@ body {
 
 .fourth-section h2 {
   color: #2e2f42;
-  width: 218px;
-  height: 40px;
-  top: 1868px;
-  left: 611px;
   font-weight: 700;
   font-size: 36px;
-  line-height: 40px;
+  line-height: 2.5;
   letter-spacing: -2%;
   text-align: center;
 }
@@ -210,14 +201,14 @@ body {
   color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: -2%;
 }
 
 .fourth-section p {
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: -2%;
   color: #434455;
 }
@@ -230,14 +221,14 @@ body {
 }
 
 .page-footer .page-logo-title2 {
-  color: #f4f4fd;
+    color: #F4F4FD;
 }
 
 .page-footer p {
   color: #f4f4fd;
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: -2%;
   width: 264px;
   height: 72px;
